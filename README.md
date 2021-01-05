@@ -1,5 +1,7 @@
 ### ✨ Senior _Frontend_ developer ✨
 
+![I love Juan Pumpkinpie](https://res.cloudinary.com/ds4utwlks/image/upload/v1609841099/cover_pumpkinpieJuan_xjsgiq.jpg)
+
 🥰 Inlove of Javascript and [ReactJs](https://reactjs.org/). I am part of _W3C_ group and Javascript ES6
 
 ### Main Skilss:
