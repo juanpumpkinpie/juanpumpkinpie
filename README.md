@@ -1,4 +1,3 @@
-### ✨ Senior _Frontend_ developer ✨
 
 ![I love Juan Pumpkinpie](https://res.cloudinary.com/ds4utwlks/image/upload/v1609841099/cover_pumpkinpieJuan_xjsgiq.jpg)
 
