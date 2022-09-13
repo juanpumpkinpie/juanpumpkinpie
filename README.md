@@ -1,7 +1,5 @@
 
-![I love Juan Pumpkinpie](https://res.cloudinary.com/ds4utwlks/image/upload/v1611403458/githubcover_j1nvnb.jpg)
+<img width="1075" alt="Screenshot 2022-09-13 at 09 25 58" src="https://user-images.githubusercontent.com/14529200/189838096-0e7fb486-7684-41bd-b0e5-4bd3a4c0bcde.png">
 
 
-
-> 🧪 React JS + NodeJS + MongoDB + UI (SASS / FlexBox)
-> React Library test and JEST, Handle errors, routers, forms, Errorboundaries | NPM and webpack | Mongoose, Server JSON REST API's and Auth
+- ReactJS vite, REST API's, RegExp, TaildwindCSS, Errorboundaries | NPM and webpack axios, icons
