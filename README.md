@@ -6,7 +6,7 @@ This app can read database compare data and display in search, allow users to se
 and alsoposibility to connect online for live translations.
 
 2. Search IP locatoins displaying maps and collect data. ReactJS, CSS3 and API Google Maps:
-[https://github.com/juanpumpkinpie/api-locations](https://api-locations.vercel.app/)
+https://api-locations.vercel.app/
 get your current ipv4
 
 3. Game Slot Machie sing websockets in typescript ReadtJS, Styled Components and lightSQL to score user points,
