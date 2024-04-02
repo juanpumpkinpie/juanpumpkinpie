@@ -5,9 +5,11 @@ Mobile version (Styles for now) Progress 30% and 1% of Python dictionaries
 This app can read database compare data and display in search, allow users to send questions about Spiritual experiences,
 and alsoposibility to connect online for live translations.
 
-2. Search IP locatoins displaying maps and collect data. ReactJS, CSS3 and API Google Maps:
+2. Search IP locatoins displaying maps and collect data. ReactJS Vite, Tailwind🤢 and API Maps:
 https://api-locations.vercel.app/
 get your current ipv4
+
+***
 
 3. Game Slot Machie sing websockets in typescript ReadtJS, Styled Components and lightSQL to score user points,
 Playing online max users streaming 100 (just for portfolio)
