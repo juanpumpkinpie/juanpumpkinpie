@@ -1,4 +1,4 @@
-#Portfolio:
+# Portfolio:
 
 1. Portfolio ReactJS Typescript, Python3, styled Components and MlFlow and AWS Storage: https://questions-app-taupe.vercel.app/
 Mobile version (Styles for now) Progress 30% and 1% of Python dictionaries
