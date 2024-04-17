@@ -1,18 +1,10 @@
 # Portfolio:
 
-1. Portfolio ReactJS Typescript, Python3, styled Components and MlFlow and AWS Storage: https://questions-app-taupe.vercel.app/
-Mobile version (Styles for now) Progress 30% and 1% of Python dictionaries
-This app can read database compare data and display in search, allow users to send questions about Spiritual experiences,
-and alsoposibility to connect online for live translations.
+1. Portfolio ReactJS Typescript, Python, styled Components and vertex-ai and vercel postgres: https://questions-app-taupe.vercel.app/
+Mobile version (Styles for now) Progress 30%
 
-2. Search IP locatoins displaying maps and collect data. ReactJS Vite, Tailwind🤢 and API Maps:
-https://api-locations.vercel.app/
-get your current ipv4
-
-***
-
-3. Game Slot Machie sing websockets in typescript ReadtJS, Styled Components and lightSQL to score user points,
-Playing online max users streaming 100 (just for portfolio)
+2. In progress Fly-airlines live tickets and animations (in progress)
+3. Game Slot Machie in progress
 
 4. Harvard CS50 for vsCode: https://marketplace.visualstudio.com/items?itemName=whitehat4u.cs50-theme-harvard
 5. Avenga-Theme for vsCode: https://marketplace.visualstudio.com/items?itemName=whitehat4u.avenga-theme-vs
